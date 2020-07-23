@@ -1,1 +1,1 @@
-# Wrangle-and-Analyze-data of the Udacity Analyst Nanodegree
+ Wrangle and Analyze the data of the Udacity Analyst Nanodegree
