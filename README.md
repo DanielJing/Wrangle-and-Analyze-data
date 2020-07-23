@@ -1,1 +1,1 @@
- Wrangle and Analyze the data of the Udacity Analyst Nanodegree
+ The data Wrangling and Analyzing project of the Udacity Analyst Nanodegree
